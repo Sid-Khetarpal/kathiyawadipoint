@@ -96,7 +96,6 @@ class Header extends Component{
                                 <option value="selectorder">Please Select Your Order Now!!!</option>
                                 <option value="grape">Grape</option>
                                 <option value="apple">Apple</option>
-                                <option value="orange">Orange</option>
                             </select>
                             </FormGroup>
                             
